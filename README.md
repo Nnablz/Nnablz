@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there! 👋 I'm Muhammad Nabil Alfarizi
 
-<!--
-**Nnablz/Nnablz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Mobile Application & IoT Developer specializing in Android, Flutter, and Dart, with a serious passion for gamification and behavioral science. I love bridging the gap between human psychology, software, and physical hardware to build engaging, minimalist experiences.
 
-Here are some ideas to get you started:
+### 🛠️ What I'm working on
+* 🚀 Launching **DopaQuest**, a gamified habit-tracking app that mixes streak-based rewards with a vibrant, rounded UI.
+* ⚙️ Exploring and building Internet of Things (IoT) projects.
+* 🎓 Active member of the Google Developer Student Club (GDSC) at Telkom University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack & Certifications
+* **Software Development:** Flutter, Dart, Android
+* **Hardware & Cloud:** IoT Development, Microsoft Certified: Azure AI Fundamentals (AI-900)
+
+### ⚡ Off-Screen
+When I'm not debugging code, wiring up a new IoT prototype, or tweaking UI components, you can probably find me:
+* ⌨️ Scouring price drops for mechanical keyboards (Ajazz, Aula, Skyloong).
+* 🏍️ Getting my hands dirty tuning up motorcycle engines. 
+* 🍜 Hunting for the best local mie ayam or fueling up on Thai tea.
+
+📫 **Let's Connect!**
+[LinkedIn Profile URL] | [Twitter/X Profile URL] | [Portfolio URL]
