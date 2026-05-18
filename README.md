@@ -14,8 +14,8 @@ I'm a Mobile Application & IoT Developer specializing in Android, Flutter, and D
 ### ⚡ Off-Screen
 When I'm not debugging code, wiring up a new IoT prototype, or tweaking UI components, you can probably find me:
 * ⌨️ Scouring price drops for mechanical keyboards (Ajazz, Aula, Skyloong).
-* 🏍️ Getting my hands dirty tuning up motorcycle engines. 
-* 🍜 Hunting for the best local mie ayam or fueling up on Thai tea.
+* 🎮 Playing MOBA and/or FPS Shooter. 
+* 🍜 Hunting for the best local mie ayam or fueling up on Coffee.
 
 📫 **Let's Connect!**
-[LinkedIn Profile URL] | [Twitter/X Profile URL] | [Portfolio URL]
+[https://www.linkedin.com/in/muhammadnabilalfarizi/]
