@@ -13,7 +13,7 @@ I'm a Mobile Application & IoT Developer specializing in Android, Flutter, and D
 
 ### ⚡ Off-Screen
 When I'm not debugging code, wiring up a new IoT prototype, or tweaking UI components, you can probably find me:
-* ⌨️ Scouring price drops for mechanical keyboards (Ajazz, Aula, Skyloong).
+* ⌨️ Scouring price drops for mechanical keyboards (Ajazz, Tofu, KeyChron).
 * 🎮 Playing MOBA and/or FPS Shooter. 
 * 🍜 Hunting for the best local mie ayam or fueling up on Coffee.
 
