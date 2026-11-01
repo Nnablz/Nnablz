@@ -1,21 +1,39 @@
-# Hi there! 👋 I'm Muhammad Nabil Alfarizi
+<h1 align="center">Hi, I'm Muhammad Nabil Alfarizi 👋</h1>
+<p align="center"><b>Mobile Application & IoT Developer</b> focused on cross-platform performance, behavioral system design, and embedded hardware integration.</p>
 
-I'm a Mobile Application & IoT Developer specializing in Android, Flutter, and Dart, with a serious passion for gamification and behavioral science. I love bridging the gap between human psychology, software, and physical hardware to build engaging, minimalist experiences.
+---
 
-### 🛠️ What I'm working on
-* 🚀 Developing **DopaQuest**, a gamified habit-tracking app that mixes streak-based rewards with a vibrant, rounded UI.
-* ⚙️ Exploring and building Internet of Things (IoT) projects.
-* 🎓 Active member of the Google Developer Student Club (GDSC) at Telkom University.
+### 💻 Technical Stack
 
-### 💻 Tech Stack & Certifications
-* **Software Development:** Flutter, Dart, Android, C++
-* **Hardware & Cloud:** IoT Development, Microsoft Certified: Azure AI Fundamentals (AI-900)
+* **Mobile & Frontend:** Flutter, Dart, Android
+* **Backend & Cloud:** Firebase, REST APIs, Microsoft Azure
+* **Languages:** C++, JavaScript, TypeScript
+* **Hardware & Systems:** IoT Telemetry, Embedded Sensors, ESP32 Microcontrollers
 
-### ⚡ Off-Screen
-When I'm not debugging code, wiring up a new IoT prototype, or tweaking UI components, you can probably find me:
-* ⌨️ Scouring price drops for mechanical keyboards (Ajazz, Tofu, KeyChron).
-* 🎮 Playing MOBA and/or FPS Shooter. 
-* 🍜 Hunting for the best local mie ayam or fueling up on Coffee.
+---
 
-📫 **Let's Connect!**
-[https://www.linkedin.com/in/muhammadnabilalfarizi/]
+### 🚀 Featured Projects
+
+* **[DopaQuest](https://github.com/Nnablz/DopaQuest_app)** — A gamified habit-tracking mobile application built with Flutter and Firebase, bridging behavioral science mechanics with a clean, high-performance UI.
+* **[PuffGuard App](https://github.com/Nnablz/PuffGuard-App)** — Companion mobile application interfacing with an ESP32 microcontroller to monitor real-time room air quality and automatically trigger ventilation when poor conditions are detected.
+* **[CheatClip Pro](https://github.com/galihjuansaputra/cheat-clip-pro)** — Collaborative project repository featuring utility tooling and workflow enhancements.
+
+---
+
+### 📜 Certifications & Affiliations
+
+* **Google:** Google Data-Driven Decision Making Specialization, AI Fundamentals, Introducing Data Analytics and Analytical Thinking[cite: 1]
+* **Microsoft Certified:** Azure AI Fundamentals (AI-900)
+* **Community:** Active member of Google Developer Groups (GDG) on Campus, Telkom University
+
+---
+
+### ⚡ Beyond the Terminal
+* **Hardware:** Tinkering with custom mechanical keyboard layouts (Ajazz, Tofu, KeyChorn).
+* **Interests:** Competitive MOBA/FPS titles, local culinary hunts, and deep-dive espresso engineering.
+
+---
+
+### 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadnabilalfarizi/)
