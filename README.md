@@ -14,15 +14,15 @@
 
 ### 🚀 Featured Projects
 
-* **[DopaQuest](https://github.com/Nnablz/DopaQuest_app)** — A gamified habit-tracking mobile application built with Flutter and Firebase, bridging behavioral science mechanics with a clean, high-performance UI.
-* **[PuffGuard App](https://github.com/Nnablz/PuffGuard-App)** — Companion mobile application interfacing with an ESP32 microcontroller to monitor real-time room air quality and automatically trigger ventilation when poor conditions are detected.
-* **[CheatClip Pro](https://github.com/galihjuansaputra/cheat-clip-pro)** — Collaborative project repository featuring utility tooling and workflow enhancements.
+* **[DopaQuest](https://github.com/Nnablz/DopaQuest_app)** - A gamified habit-tracking mobile application built with Flutter and Firebase, bridging behavioral science mechanics with a clean, high-performance UI.
+* **[PuffGuard App](https://github.com/Nnablz/PuffGuard-App)** - Companion mobile application interfacing with an ESP32 microcontroller to monitor real-time room air quality and automatically trigger ventilation when poor conditions are detected.
+* **[CheatClip Pro](https://github.com/galihjuansaputra/cheat-clip-pro)** - Collaborative project repository featuring utility tooling and workflow enhancements.
 
 ---
 
 ### 📜 Certifications & Affiliations
 
-* **Google:** Google Data-Driven Decision Making Specialization, AI Fundamentals, Introducing Data Analytics and Analytical Thinking[cite: 1]
+* **Google:** Google Data-Driven Decision Making Specialization, AI Fundamentals, Introducing Data Analytics and Analytical Thinking
 * **Microsoft Certified:** Azure AI Fundamentals (AI-900)
 * **Community:** Active member of Google Developer Groups (GDG) on Campus, Telkom University
 
